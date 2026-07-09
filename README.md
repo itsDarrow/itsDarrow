@@ -31,6 +31,12 @@
 **Focus du moment:** garder ce profil vivant avec une petite automatisation GitHub Actions.
 <!-- PROFILE-PULSE:END -->
 
+## Projet lance
+
+| Projet | Ce qu'il montre | Lien |
+| --- | --- | --- |
+| Launchboard | Une app web statique avec scoring, filtres, stockage local et export JSON | [Voir le depot](https://github.com/itsDarrow/launchboard) |
+
 ## Idees de projets a epingler
 
 | Idee | Pourquoi c'est interessant | Format |
