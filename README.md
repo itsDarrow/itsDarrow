@@ -35,7 +35,7 @@
 
 | Projet | Ce qu'il montre | Lien |
 | --- | --- | --- |
-| Launchboard | Une app web statique avec scoring, filtres, stockage local et export JSON | [Voir le depot](https://github.com/itsDarrow/launchboard) |
+| Launchboard | Une app web statique avec scoring, filtres, stockage local et export JSON | [Demo](https://itsdarrow.github.io/launchboard/) / [Depot](https://github.com/itsDarrow/launchboard) |
 
 ## Idees de projets a epingler
 
